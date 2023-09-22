@@ -20,6 +20,6 @@ https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c このあたりをみて記
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mpg-teruo-kakikubo&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mpg-teruo-kakikubo&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=mpg-teruo-kakikubo&theme=flat&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
